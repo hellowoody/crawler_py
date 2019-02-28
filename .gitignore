@@ -1,0 +1,6 @@
+*.torrent
+*.jpg
+*.png
+*.pyc
+*.zip
+*.DS_Store
